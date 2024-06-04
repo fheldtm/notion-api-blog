@@ -10,6 +10,8 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@notionhq/client": "^2.2.15",
+    "dayjs": "^1.11.11",
     "express": "^4.19.2",
     "nuxt": "^3.11.2",
     "vue": "^3.4.27",
